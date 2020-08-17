@@ -7,7 +7,7 @@
 + Scrollback
 * Install
 #+BEGIN_SRC bash
-git clone https://gitlab.com/jadecell/st.gitlab
+git clone https://gitlab.com/jadecell/st.git
 cd st/
 sudo make install
 #+END_SRC
