@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Sauce Code Pro Nerd Font:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Sauce Code Pro Nerd Font:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -111,7 +111,7 @@ float alpha = 0.8;
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
 	/* 8 normal colors */
-	"black",
+	"#ffffff",
 	"red3",
 	"green3",
 	"yellow3",
